@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Countdown track-maker",
+        "command": "track-maker:countdown"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "track-maker",
+          "submenu": [
+            {
+              "label": "Start",
+              "command": "track-maker:start"
+            },
+            {
+              "label": "Reset",
+              "command": "track-maker:reset"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
