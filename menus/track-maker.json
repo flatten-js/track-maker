@@ -19,6 +19,10 @@
               "command": "track-maker:start"
             },
             {
+              "label": "Pause",
+              "command": "track-maker:pause"
+            },
+            {
               "label": "Reset",
               "command": "track-maker:reset"
             }
