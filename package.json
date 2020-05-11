@@ -2,10 +2,10 @@
   "name": "track-maker",
   "main": "./lib/track-maker",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "The best timer for time management that uses Pomodoro technique",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/track-maker",
+  "repository": "https://github.com/flatten-js/track-maker",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
